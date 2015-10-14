@@ -27,7 +27,7 @@ for (statement 1; statement 2; statement 3) {
   for (var i = 0; *i<10*; statement 3) { 
     code block to be executed
   }
-
+```
   Often statement 2 is used to evaluate the condition of the initial variable.
 
   This is not always the case, JavaScript doesn't care. Statement 2 is also optional.
