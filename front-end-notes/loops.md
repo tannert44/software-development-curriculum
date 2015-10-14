@@ -9,7 +9,7 @@ for (statement 1; statement 2; statement 3) {
     code block to be executed
 }
 ```
-####Statement 1:
+###Statement 1:
   ```
   for (*var i = 0*; statement 2; statement 3) { 
     code block to be executed
@@ -22,7 +22,7 @@ for (statement 1; statement 2; statement 3) {
 
   You can initiate many values in statement 1 (separated by comma).
 
-  ####Statement 2:
+  ###Statement 2:
   ```
   for (var i = 0; *i<10*; statement 3) { 
     code block to be executed
@@ -36,7 +36,7 @@ for (statement 1; statement 2; statement 3) {
 
   If statement 2 is omitted, a break statement must be added or an infinite loop will follow.
 
-####Statement 3:
+###Statement 3:
 
 Often statement 3 increases the initial variable.
 
@@ -64,7 +64,7 @@ for (statement 1 in statement 2) {
 }
 ```
 
-####Statement 1:
+###Statement 1:
 
 ```
 var wordObj= {
@@ -80,7 +80,7 @@ for (*myArbitrayWord* in statement 2) {
 
   Statement 1 is an arbitray word used to represent a value at each key location in the specified object.
 
-####Statement 2: 
+###Statement 2: 
 
 ```
 var wordObj= {
@@ -107,7 +107,7 @@ while(statement 1){
 }
 ```
 
-####Statement 1:
+###Statement 1:
 
 ```
 while(*true*){
