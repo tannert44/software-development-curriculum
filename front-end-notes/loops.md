@@ -117,3 +117,14 @@ while(*true*){
 ```
 
 Whenever statement one is false the loop will break. The difference between while and do/while is a while loop will excute only when Statement 1 is true, and a do/while will execute atleast once and then continue to execute until Statement 1 is evaluated to false.
+
+
+###Sources:
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
+
+http://www.kirupa.com/html5/loops_in_javascript.htm
+
+http://www.dofactory.com/tutorial/javascript-loops
